@@ -1,8 +1,9 @@
-# editioncrafter-data
+# eema-data
 
-Data and metadata for an edition created with EditionCrafter, a publication tool for digital critical editions under development by the [Making and Knowing Project](https://makingandknowing.org/) (M&K), [Performant Software Solutions](https://www.performantsoftware.com/), and a number of case-study collaborators. EditionCrafter, under development (2022-2024), is designed to be an open-source, customizable publishing tool that will allow users to deploy their own texts, data, and commentary as low-maintenance digital critical editions. It will enable the creation of static sites that rely on basic well-established technologies and workflows to address issues of longevity, maintenance, sustainability, and cost. For more about this work, see the NSF award announcement: [Crafting an Open Source Digital Publication Tool for the History of Science](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2218218&HistoricalAwards=false).
+This project will build a valuable tool for examining these topics by transcribing and translating works by the polymath Walther Hermann Ryff (ca. 1500-1548), whose medical, scientific, and architectural energies converged in a set of architectural treatises with deep ramifications for Europe and colonial Latin America. Far from being merely 'bookish', these texts represented a treasury of practical and learned knowledge available at the time. Ryff, himself a product of the mining cultures of the Ore mountains, likewise drew on the experience of the Habsburg Empire's colonies across the Atlantic; this makes his writings a fascinating digest of how European architecture and science were extending their global reach. Ryff's assemblage of ideas, texts, images, and reports, all set in thousands of pages of early print, will allow us to reconstruct complex disciplinary relationships and global knowledge networks. Although Ryff's architectural contributions are widely known to have a singular place in the growth of early modern science, this will be the first systematic project to analyse them, make them widely available, and set them in a global, colonial narrative. 
 
-This project builds upon the publication of *[Secrets of Craft and Nature. A Digital Critical Edition of BnF Ms. Fr. 640](https://edition640.makingandknowing.org/#/)* by the Making and Knowing Project. The underlying software developed for *Secrets of Craft and Nature* will serve as the starting point for EditionCrafter. 
+
+
 
 ## editioncrafter-data repository
 
